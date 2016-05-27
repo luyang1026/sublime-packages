@@ -1,0 +1,508 @@
+{
+	"folder_history":
+	[
+		"/D/phpStudy/WWW/wxwork",
+		"/D/phpStudy/WWW/live",
+		"/C/Users/Auser/Desktop/直播",
+		"/C/Users/Auser/Desktop/章节课",
+		"/C/Users/Auser/Desktop/cwork"
+	],
+	"last_version": 3114,
+	"last_window_id": 1,
+	"log_indexing": false,
+	"settings":
+	{
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"tab",
+						"tabConts"
+					],
+					[
+						"pri",
+						"print_r"
+					],
+					[
+						"send",
+						"senderUserId"
+					],
+					[
+						"ex",
+						"extra"
+					],
+					[
+						"con",
+						"connect"
+					],
+					[
+						"data",
+						"Data"
+					],
+					[
+						"user",
+						"username"
+					],
+					[
+						"usre",
+						"username"
+					],
+					[
+						"max",
+						"maxlength	Attr"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"click",
+						"click	.click()"
+					],
+					[
+						"tr",
+						"teacher.png	w:27 h:25"
+					],
+					[
+						"op",
+						"opacity"
+					],
+					[
+						"exp",
+						"expandableList"
+					],
+					[
+						"parent",
+						"parents	.parents()"
+					],
+					[
+						"sli",
+						"slideToggle	.slideToggle()"
+					],
+					[
+						"togg",
+						"toggle	.toggle()"
+					],
+					[
+						"for",
+						"for	for (…) {…}"
+					],
+					[
+						"sub",
+						"subList"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/Users/Auser/Desktop/专题/wap/20160525/xf.html",
+					"settings":
+					{
+						"buffer_size": 1448,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/Auser/Desktop/js/vue/go.html",
+					"settings":
+					{
+						"buffer_size": 121,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/Auser/Desktop/章节课/js/index.js",
+					"settings":
+					{
+						"buffer_size": 2292,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 104.0,
+				"last_filter": "ev:open",
+				"selected_items":
+				[
+					[
+						"ev:open",
+						"Evernote: Open Evernote Note"
+					],
+					[
+						"evernote",
+						"Evernote Settings: User"
+					],
+					[
+						"open",
+						"Evernote: Open Evernote Note"
+					],
+					[
+						"send",
+						"Evernote: Send to Evernote as new note"
+					],
+					[
+						"eve",
+						"Evernote: New empty note"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 400.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/D/phpStudy/WWW/wxwork",
+				"/D/phpStudy/WWW/wxwork/live"
+			],
+			"file_history":
+			[
+				"/C/Users/Auser/AppData/Roaming/Sublime Text 3/Packages/User/Evernote.sublime-settings",
+				"/C/Users/Auser/AppData/Roaming/Sublime Text 3/Installed Packages/Evernote.sublime-package",
+				"/C/Users/Auser/AppData/Roaming/Sublime Text 3/Packages/Evernote/Evernote.sublime-settings",
+				"/C/Users/Auser/Desktop/js/vue/node_modules/vue/dist/vue.common.js",
+				"/C/Users/Auser/Desktop/js/bookmarks_16_1_4.html",
+				"/C/Users/Auser/Desktop/test/test.html",
+				"/C/Users/Auser/Desktop/专题/wap/index.html",
+				"/C/Users/Auser/Desktop/专题/wap/20160525/img/xf.html",
+				"/C/Users/Auser/Desktop/专题/wap/20160525/xf.html",
+				"/C/Users/Auser/Desktop/专题/wap/20160525/img/wap消防.html",
+				"/C/Users/Auser/Desktop/章节课/demo.ly.html",
+				"/C/Users/Auser/Desktop/章节课/js/index.js",
+				"/D/phpStudy/WWW/wxwork/live/live-play.html",
+				"/D/phpStudy/WWW/live/less/live-play.less",
+				"/D/phpStudy/WWW/live/live-play.html",
+				"/D/phpStudy/WWW/live/js/live-play.js",
+				"/C/Users/Auser/Desktop/rong.js",
+				"/C/Users/Auser/Desktop/rongyun.htl.html",
+				"/D/phpStudy/WWW/test/test.php",
+				"/D/phpStudy/WWW/live2/js/live-play.js",
+				"/D/phpStudy/WWW/live3/js/live-play.js",
+				"/D/phpStudy/WWW/test/test.html",
+				"/C/Users/Auser/Desktop/直播/live-play.html",
+				"/C/Users/Auser/Desktop/直播/less/live-play.less",
+				"/C/Users/Auser/Desktop/直播/js/live-play.js",
+				"/C/Users/Auser/Desktop/直播/live-list.html",
+				"/C/Users/Auser/Desktop/luyang1026.github.io/test/test.html",
+				"/C/Users/Auser/Desktop/直播/less/live-list.less",
+				"/C/Users/Auser/.ssh/id_rsa.pub",
+				"/C/Users/Auser/Desktop/test/bower_components/zepto/zepto.js",
+				"/C/Users/Auser/Desktop/直播/less/live.less",
+				"/C/Users/Auser/Desktop/live.html",
+				"/C/Users/Auser/Desktop/test/bower_components/bootstrap/js/tab.js",
+				"/C/Users/Auser/Desktop/test/wx.pi.js",
+				"/C/Users/Auser/Desktop/test/bower_components/bootstrap/Gruntfile.js",
+				"/C/Users/Auser/Desktop/章节课/css/ly.less",
+				"/C/Users/Auser/Desktop/test/test2.html",
+				"/C/Users/Auser/Desktop/章节课/demo.html",
+				"/C/Users/Auser/Desktop/章节课/js/wx.pi.js",
+				"/C/Users/Auser/Desktop/test/bower_components/bootstrap/package.json",
+				"/C/Users/Auser/Desktop/test/bower_components/bootstrap/grunt/bs-glyphicons-data-generator.js",
+				"/C/Users/Auser/Desktop/test/bower_components/bootstrap/less/alerts.less",
+				"/C/Users/Auser/Desktop/test/bower_components/bootstrap/.bower.json",
+				"/C/Users/Auser/Desktop/章节课/css/ly.css",
+				"/C/Users/Auser/Desktop/cwork/pages/index/index.html",
+				"/C/Users/Auser/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/Auser/Desktop/章节课/pay.html",
+				"/C/Users/Auser/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/D/专题/招标师/js/Tenderer.js",
+				"/D/专题/招标师/css/Tenderer.css",
+				"/C/Users/Auser/Desktop/bookmark.html",
+				"/C/Users/Auser/Desktop/test.html"
+			],
+			"find":
+			{
+				"height": 32.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"xf",
+					"height",
+					"tab",
+					"getTokenFromAppServer",
+					"Username",
+					"username",
+					"toImg",
+					"conserva",
+					"getConversationList",
+					"room",
+					"id",
+					"Li.join",
+					"Li",
+					"join",
+					"room",
+					"ConversationType",
+					"Base",
+					"base",
+					"\\s+",
+					"activeEle",
+					"size",
+					"发言发言",
+					"CloudLivePlayer",
+					"1",
+					"click",
+					"tap",
+					"span",
+					"课程题目",
+					"measureText",
+					"new",
+					"15",
+					"0",
+					"span",
+					"div",
+					"display"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "D:\\phpStudy\\WWW\\wxwork"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/Auser/Desktop/专题/wap/20160525/xf.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1448,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1371,
+										1371
+									]
+								],
+								"settings":
+								{
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 720.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/Users/Auser/Desktop/js/vue/go.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 121,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										121,
+										121
+									]
+								],
+								"settings":
+								{
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/C/Users/Auser/Desktop/章节课/js/index.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2292,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										398,
+										398
+									]
+								],
+								"settings":
+								{
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 32.0
+			},
+			"input":
+			{
+				"height": 40.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-1,-1,-1,-1,577,501,39,1157",
+			"project": "",
+			"replace":
+			{
+				"height": 60.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 208.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
